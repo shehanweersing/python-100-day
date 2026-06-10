@@ -26,3 +26,7 @@ print()
 time.sleep(0.5)
 type_print("[NODE 01: EXTERNAL PERIMETER]")
 type_print("You are lurking at the digital perimeter. The firewall pulses with traffic.")
+print()
+choice1=input("Action required: Type 'breach' to attack remotely or 'infiltrate' to enter the physical building: ")
+if choice1.lower == "breach" :
+    print("CRITICAL FAILURE. Biometric laser tripped. Security dispatched. Game Over.")
