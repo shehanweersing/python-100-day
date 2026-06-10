@@ -84,4 +84,5 @@ if choice2.lower() == "brute force":
     print("Intrusion Detection System triggered. IP blacklisted. Game Over")
 
 elif choice2.lower() == "phishing":
-    print
+    type_print("Gateway bypassed")
+    print("Welcome to the core")
