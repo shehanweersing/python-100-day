@@ -86,3 +86,16 @@ if choice2.lower() == "brute force":
 elif choice2.lower() == "phishing":
     type_print("Gateway bypassed")
     print("Welcome to the core")
+
+print("Three directories detected: 'archive', 'system', and 'neural_net'.")
+print("Action required: Which directory do you decrypt?:")
+choice3=input()
+if choice3.lower() == "archive":
+    type_print("CRITICAL FAILURE")
+    print("Honeypot triggered. Counter-hack initiated. Game Over")
+elif choice3.lower() == "system":
+    type_print("CRITICAL FAILURE")
+    print    
+
+
+
