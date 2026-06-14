@@ -18,3 +18,7 @@ print(simple_list)
 random_index = random.choice(simple_list) # get random item from a list 
 
 print(random_index)
+
+#option two for pick random item from the list 
+random_index= random.randint(0,4)
+print(simple_list[random_index])
