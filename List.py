@@ -2,3 +2,13 @@ simple_list = ["sri","weer",1,4,2]
 
 print(simple_list[0])
 print(simple_list[-1])  # -1 is the last index of the list 
+
+simple_list.extend(["HI","suuee"]) # adding new items into end of the list 
+print(simple_list)
+
+simple_list.append("tharindi") #add one item to end of list
+print(simple_list)
+
+simple_list.pop(1) #remove item from list by index 
+
+print(simple_list)
