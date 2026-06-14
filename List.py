@@ -22,3 +22,10 @@ print(random_index)
 #option two for pick random item from the list 
 random_index= random.randint(0,4)
 print(simple_list[random_index])
+
+#Nested List 
+list1 =["kandy","Colombo","ampara","Mathara"]
+
+list =[list1,simple_list]
+
+print(list)
