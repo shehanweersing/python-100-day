@@ -1,0 +1,66 @@
+import random
+
+rock = '''    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___) '''
+
+paper = '''
+     _______
+---'    ____)____
+           ______)
+          _______)
+         _______)
+---.__________) 
+'''
+scissor = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
+
+game =[rock,paper,scissor]
+random_game =random.choice(game)
+
+print("What your Choose? Type 0 for Rock,1 for Paper,2 for Scissors")
+Your_choise =int(input())
+print("Your Choise is:")
+print(game[Your_choise])
+
+print("Computer Choise is:")
+computer= print(random_game)
+
+#logic of the game 
+if computer ==0:
+    if Your_choise == 0:
+        print("Both are same")
+    elif Your_choise == 1:
+        print("YOU WIN")  
+    elif Your_choise == 2:
+        print("YOU LOSS")
+    else:
+        print("ENTER valid NUMBER (0 or 1 or 2)")
+elif computer == 1:
+    if Your_choise == 0:
+        print("YOU LOSS")
+    elif Your_choise == 1:
+        print("BOTH ARE SAME")  
+    elif Your_choise == 2:
+        print("YOU WIN")
+    else:
+        print("ENTER valid NUMBER (0 or 1 or 2)")
+elif computer == 2:
+    if Your_choise == 0:
+        print("YOU WIN")
+    elif Your_choise == 1:
+        print("YOU LOSS")  
+    elif Your_choise == 2:
+        print("BOTH ARE SAME")
+    else:
+        print("ENTER valid NUMBER (0 or 1 or 2)")    
+                              
