@@ -29,3 +29,8 @@ list1 =["kandy","Colombo","ampara","Mathara"]
 list =[list1,simple_list]
 
 print(list)
+
+print(list[1])#second list
+print(list[0])#first list
+print(list[1][0])#index 0 in second(1)list
+print(list[0][1]) #index 0 in first list
