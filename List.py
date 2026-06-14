@@ -1,3 +1,5 @@
+import random
+
 simple_list = ["sri","weer",1,4,2]
 
 print(simple_list[0])
@@ -12,3 +14,7 @@ print(simple_list)
 simple_list.pop(1) #remove item from list by index 
 
 print(simple_list)
+
+random_index = random.choice(simple_list) # get random item from a list 
+
+print(random_index)
