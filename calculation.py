@@ -25,7 +25,7 @@ print(Max)
 
 #range function
 total = 0
-for number in range(1,100,):        #range 1 to 100 but 3 by 3
+for number in range(1,101):        #range 1 to 100 but 3 by 3
    total += number
 
 print(total)   
