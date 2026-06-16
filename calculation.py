@@ -17,4 +17,5 @@ print(max(score))
 
 max = 0
 
-for 
+for sc in score:
+    sc > max
