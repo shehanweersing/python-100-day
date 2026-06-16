@@ -18,4 +18,8 @@ print(max(score))
 max = 0
 
 for sc in score:
-    sc > max
+    sc < max
+
+    max = sc
+
+print(max)
