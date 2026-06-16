@@ -11,14 +11,14 @@ for score1 in score:
 print(SUM)
 
 #max function
-#print(max(score))
+print(max(score))
 
 #find maximum using for loop
 
-max = 0
+Max = 0
 for sc in score:
-   if  sc > max:
-    max = sc
+   if  sc > Max:
+    Max = sc
    
 
-print(max)
+print(Max)
