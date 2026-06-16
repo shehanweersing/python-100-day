@@ -9,3 +9,8 @@ for score1 in score:
     SUM += score1
 
 print(SUM)
+
+#max function
+print(max(score))
+
+#find maximum using for loop
