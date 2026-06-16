@@ -16,10 +16,9 @@ print(max(score))
 #find maximum using for loop
 
 max = 0
-
 for sc in score:
-    sc < max
-
+    sc > max
     max = sc
+   
 
 print(max)
