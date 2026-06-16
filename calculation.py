@@ -14,3 +14,7 @@ print(SUM)
 print(max(score))
 
 #find maximum using for loop
+
+max = 0
+
+for 
