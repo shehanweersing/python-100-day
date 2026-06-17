@@ -40,7 +40,14 @@ for char in range(nr_symbols):
 for char in range(nr_numbers):
     list_password.append(random.choice(numbers))
 
-
+print(list_password)
 random.shuffle(list_password)
 #for char in range()
 print(list_password)
+
+f_password = ""
+
+for fp in list_password:
+    f_password += fp
+
+print("Your password is" + f_password)    
