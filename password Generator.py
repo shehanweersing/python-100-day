@@ -26,3 +26,9 @@ print(random_letters + "" +r_symbols +""+ r_number )
 
 password =[random_letters,r_number,r_symbols]
 print(password)
+
+r_password =""
+for _ in range(password) :
+    r_password += random.choice(password)
+
+print(r_password)    
