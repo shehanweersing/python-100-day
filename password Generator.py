@@ -42,12 +42,11 @@ for char in range(nr_numbers):
 
 print(list_password)
 random.shuffle(list_password)
-#for char in range()
-print(list_password)
+
+#print(list_password)
 
 f_password = ""
-
 for fp in list_password:
     f_password += fp
 
-print("Your password is" + f_password)    
+print("Your password is " + f_password)    
