@@ -28,7 +28,7 @@ password =list(random_letters+r_number+r_symbols)
 print(password)
 
 r_password =""
-for _ in range(password) :
+for _ in range(len.password) :
     r_password += random.choice(password)
 
 print(r_password)    
