@@ -29,4 +29,4 @@ for number in range(1,101):        #range 1 to 100 but 3 by 3
    total += number
 
 print(total)   
-   ####################
+  
