@@ -26,8 +26,19 @@ for char in range(nr_numbers):
 
 print(password)
 
+##Hard way
+list_password = []
 
-for char in range(len.password) :
-    password += random.choice(password)
+for char in range(nr_letters):
 
-print(password)    
+   list_password.append.random.choice(letters)
+
+for char in range(nr_symbols):
+    list_password.append.random.choice(symbols)
+
+
+for char in range(nr_numbers):
+    list_password.append.random.choice(numbers)
+
+
+print(password)
