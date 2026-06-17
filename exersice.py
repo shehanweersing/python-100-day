@@ -13,7 +13,7 @@ nr_letters = int(input("How many letters would you like in your password?\n"))
 random_letters =""
 for _ in range(nr_letters):
 
-random_letters += random.choice(letters)
+    random_letters += random.choice(letters)
 
 print(random_letters)
 #print(symbols)
