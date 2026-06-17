@@ -31,14 +31,14 @@ list_password = []
 
 for char in range(nr_letters):
 
-   list_password.append.random.choice(letters)
+   list_password.append(random.choice(letters))
 
 for char in range(nr_symbols):
-    list_password.append.random.choice(symbols)
+    list_password.append(random.choice(symbols))
 
 
 for char in range(nr_numbers):
-    list_password.append.random.choice(numbers)
+    list_password.append(random.choice(numbers))
 
 
 print(password)
