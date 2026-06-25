@@ -2,3 +2,6 @@
 
 def my_function() :
     print("HI this is my first function")
+
+
+my_function()    
