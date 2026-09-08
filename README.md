@@ -1,8 +1,12 @@
-# 100 Days of Code — Python
+# 100 Days of Code: The Complete Python Pro Bootcamp 🐍
 
-Welcome to my 100 Days of Code journey! 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-This repository contains my daily coding practice, exercises, challenges, and projects as I work through 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu.
+This repository documents my daily progress, projects, and exercises from the **[100 Days of Code](https://www.udemy.com/course/100-days-of-code/)** on Udemy. 
+
+## 🎯 Goal
+To write code consistently for 100 days, master Python from the fundamentals to advanced concepts, and build a comprehensive portfolio of real-world projects spanning web scraping, data science, automation, and web development.
 
 The goal of this challenge is simple:
 
@@ -62,29 +66,11 @@ Deployment
 
 [100 Days of Code — Udemy](https://www.udemy.com/course/100-days-of-code/)
 
+## 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu.
 
 
 
-# 100 Days of Code: The Complete Python Pro Bootcamp 🐍
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-This repository documents my daily progress, projects, and exercises from the **[100 Days of Code](https://www.udemy.com/course/100-days-of-code/)** on Udemy. 
-
-## 🎯 Goal
-To write code consistently for 100 days, master Python from the fundamentals to advanced concepts, and build a comprehensive portfolio of real-world projects spanning web scraping, data science, automation, and web development.
-
-## 🗂️ Repository Structure
-The repository is organized chronologically by day. Each folder contains the daily project, coding exercises, and related documentation.
-
-```text
-📦 100-Days-of-Code
- ┣ 📂 Day_01_Band_Name_Generator
- ┣ 📂 ️Day_02_Tip_Calculator
- ┣ 📂 Day_03_Treasure_Island
- ┣ 📂 Day_04_Rock_Paper_Scissors
- ┗ 📜 README.md
 
 
 
