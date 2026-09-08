@@ -1,4 +1,4 @@
-100 Days of Code — Python
+##100 Days of Code — Python
 
 Welcome to my 100 Days of Code journey! 
 
@@ -13,16 +13,27 @@ Code every day, build something every day, and become a better Python developer.
 Throughout this journey, I aim to:
 
 🐍 Strengthen my Python fundamentals
+
 🧠 Improve problem-solving and logical thinking
+
 💻 Build real-world projects
+
 🤖 Learn automation and scripting
+
 🌐 Learn web development with Python
+
 🔌 Work with APIs
+
 🗄️ Learn databases and SQL
+
 📊 Explore data science and visualization
+
 🤖 Explore machine learning concepts
+
 🚀 Build a portfolio of Python projects
+
 📅 Maintain a consistent 100-day coding habit
+
 📚 Course
 
 Course: 100 Days of Code: The Complete Python Pro Bootcamp
